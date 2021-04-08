@@ -1,6 +1,6 @@
 # Start with 
 
-### `npm i`
+### `npm install`
 
 It will creare Node Modules folder and install all necessary dependencies.
 
